@@ -1,2 +1,2 @@
 .gitattributes merge=ours
-READMD.md merge=ours
+README.md merge=ours
